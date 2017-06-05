@@ -1,0 +1,6 @@
+# node_modules and bower
+node_modules/
+bower_components/
+
+# idea files
+.idea/
